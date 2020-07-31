@@ -33,9 +33,9 @@ subtitle = ""
   # description = "10%"
 
 [[feature]]
-  icon = "network-wired"
+  icon = "python"
   icon_pack = "fas"
-  name = "Network"
+  name = "Python"
   # description = "80%" 
 
 [[feature]]

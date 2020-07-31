@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "2019 Photonics Asia, Hangzhou"
+  # organization_url = "https://www.coursera.org"
+  title = "3D NIR laser night vision based on gated range-intensity correlation imaging"
+  url = ""
+  # certificate_url = "https://www.coursera.org"
+  date_start = "2019-10-20"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Nankai University"
   # organization_url = "https://www.coursera.org"
   title = "Outstanding Graduates"
@@ -29,23 +39,24 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Nankai University"
+  # organization_url = "https://www.edx.org"
+  title = "1st, 2nd, etc. Scholarships"
+  # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  # certificate_url = "https://www.edx.org"
+  date_start = "2014-09-01"
+  date_end = "2018-06-30"
+  description = "Won various scholarships 7 times."
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "International Physicists’ Tournament"
+  organization_url = "https://iptnet.info/"
+  title = "12th (As a member of China Team)"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  # certificate_url = "https://www.datacamp.com"
+  date_start = "2016-04-13"
+  date_end = ""
   description = ""
+
 
 +++

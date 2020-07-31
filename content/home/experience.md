@@ -25,11 +25,8 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2018-06-30"
   description = """
-  Responsibilities include:
-
-  * Analysing
-  * Modelling
-  * Deploying
+  Help the calculation of physics properties of two-dimensional materials.
+  Help to maintain the software on high performance computing cluster.
     """
 
 [[experience]]
@@ -39,6 +36,12 @@ date_format = "Jan 2006"
   location = "Irvine, California"
   date_start = "2016-07-01"
   date_end = "2016-09-15"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  Help to build the helium recovery system for scanning tunneling microscope (STM) research.
+  Design and build the circuit board of:
+   1. automatically helium compression system
+   2. pressure protection system of helium gas bag
+   3.  and vacuum protection system of STM chamber.
+  """
 
 +++
