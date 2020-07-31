@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   Design and build the circuit board of:
    1. automatically helium compression system
    2. pressure protection system of helium gas bag
-   3.  and vacuum protection system of STM chamber.
+   3. vacuum protection system of STM chamber.
   """
 
 +++

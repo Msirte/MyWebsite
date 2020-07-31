@@ -41,7 +41,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Nankai University"
   # organization_url = "https://www.edx.org"
-  title = "1st, 2nd, etc. Scholarships"
+  title = "Scholarships"
   # url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
   # certificate_url = "https://www.edx.org"
   date_start = "2014-09-01"
