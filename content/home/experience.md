@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Nankai University"
   company_url = ""
   location = "Tianjin, China"
-  date_start = "2016"
-  date_end = "2018"
+  date_start = "2016-01-01"
+  date_end = "2018-06-30"
   description = """
   Responsibilities include:
 
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "University of California, Irvine"
   company_url = ""
   location = "Irvine, California"
-  date_start = "2016-07"
-  date_end = "2016-09"
+  date_start = "2016-07-01"
+  date_end = "2016-09-15"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
