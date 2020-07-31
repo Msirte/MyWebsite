@@ -114,8 +114,8 @@ directions = "Enter Building 3 and take the stairs to Office 315B on Floor 3"
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "facebook", icon_pack = "fab", name = "Follow Me", link = "https://www.facebook.com/profile.php?id=100012682270836"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  # {icon = "facebook", icon_pack = "fab", name = "Follow Me", link = "https://www.facebook.com/profile.php?id=100012682270836"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   {icon = "envelope", icon_pack = "fas", name = "E-mail Me", link = "mailto:yuezhangcas@semi.ac.cn"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
