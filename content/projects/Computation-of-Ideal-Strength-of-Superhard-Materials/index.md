@@ -7,7 +7,7 @@ title = "Computation of Ideal Strength of Superhard Materials"
 font_size="12"
 
 # Project summary to display on homepage.
-summary = "Study some interesting phenomena of superhard materials via scientific computing techniques."
+summary = ""
 
 weight = 2
 
