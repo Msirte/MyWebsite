@@ -7,13 +7,13 @@ title = "Computation of Ideal Strength of Superhard Materials"
 font_size="12"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Study some interesting phenomena of superhard materials via scientific computing techniques."
 
 weight = 2
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["scientific computing"]
+tags = []
 categories = []
 
 # Optional external URL for project (replaces project detail page).
