@@ -13,7 +13,7 @@ weight = 2
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["scientific computing"]
 categories = []
 
 # Optional external URL for project (replaces project detail page).
@@ -67,19 +67,4 @@ There are many kinds of superhard materials in nature. Interesting phenomena occ
 
 As is known to all, pixel is the smallest unit of CMOS/CCD imaging traditionally. However, using sub-pixel fitting is an efficient way to break this limit. Based on this, a high-precision testing system whose minimum resolution is 0.1µm has been established. Figure 2 shows the procedures of using the sub-pixel fitting based analysis software (time-axis). 
 
-<!-- <figure>
- <img src="Fig_1.png" alt="a" width="400px" height="400px"/>
-  <figcaption>
-      <h10>Figure.2 Procedure of the time-axis fitting software</h10>
-  </figcaption>
-</figure>
 
-The time-axis analysis software (as shown in Figure 3) based on sub-pixel fitting and Microsoft Foundation Classes (MFC) can output the relationship between time and feature point’s displacement, thus the amplitude and frequency of microactuators can be derived accurately. Similar to this time-axis analysis software, spatial-axis analysis software which shows the moving trail of micro-actuators’ feature point has been constructed as well.  
-Due to its advantages, the measuring method and system established in this project is expected to improve the quality of microactuators’ testing and be widely used in research of MEMS.</h8>
-
-<figure>
- <img src="Fig_2.png" alt="" width="600px" height="600px"/>
-  <figcaption>
-      <h10>Figure.3 Interface of the time-axis fitting software</h10>
-  </figcaption>
-</figure> -->
