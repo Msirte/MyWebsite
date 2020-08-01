@@ -7,13 +7,13 @@ title = "Monte-Carlo Simulation of Underwater Range-gated Imaging"
 font_size="12"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Build a Monte-Carlo Active Imaging Simulation Platform(MAISP) and studied backscattering effect of water in range-gated imaging."
 
 weight = 2
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["scientific computing"]
+tags = ["scientific computing", "imaging"]
 categories = []
 
 # Optional external URL for project (replaces project detail page).
@@ -104,5 +104,5 @@ The simulation also obtained new conclusions in underwater distance-gated 3D ima
 This is still an onging project and further phenomenon need to be studied. All the work is carried out under the supervision of Prof. Xinwei Wang, at Institute of Semiconductors, Chinese Academy of Sciences.
 
 ____________________________________________
-References:
+References:  
 [1]. A.A. Leino, A. Pulkkinen and T. Tarvainen, ValoMC: a Monte Carlo software and MATLAB toolbox for simulating light transport in biological tissue, OSA Continuum 2, 957-972 (2019).  
