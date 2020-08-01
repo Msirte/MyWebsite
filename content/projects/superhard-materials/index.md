@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-
+date = 2018-08-27T00:00:00
 
 # Project title.
 title = "Computation of Ideal Strength of Superhard Materials"
