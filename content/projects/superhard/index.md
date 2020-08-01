@@ -146,13 +146,13 @@ All the calculations are carried out through the modified Vienna Ab-initio Simul
 ____________________________________________
 References:
 
-[1] Bing Li, Hong Sun, and Changfeng Chen, Phys. Rev. Lett. 117, 116103 (2016).
-[2] Zicheng Pan, Hong Sun, Yi Zhang, and Changfeng Chen, Phys. Rev. Lett. 102, 055503 (2009).
-[3] David Roundy, and Marvin L. Cohen, Phys. Rev. B 64, 212103 (2001).
-[4] Zicheng Pan, Hong Sun, and Changfeng Chen, Phys. Rev. B 79, 104102 (2009).
-[5] H. Chacham, and Leonard Kleinman, Phys. Rev. Lett. 85, 4904 (2000).
-[6] Yi Zhang Hong Sun, and Changfeng Chen, Phys. Rev. Lett. 93, 195504 (2004).
-[7] R. H. Telling, C. J. Pickard, M. C. Payne, and J. E. Field, Phys. Rev. Lett. 84, 5160 (2000).
-[8] P. E. Blöchl, Phys. Rev. B 50, 17953 (1994). 
-[9] G. Kresse, and J. Furthmüller, Phys. Rev. B 54, 11169 (1996);  Comput. Mater. Sci. 6, 15 (1996).
-[10] J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996).
+[1] Bing Li, Hong Sun, and Changfeng Chen, Phys. Rev. Lett. 117, 116103 (2016).  
+[2] Zicheng Pan, Hong Sun, Yi Zhang, and Changfeng Chen, Phys. Rev. Lett. 102, 055503 (2009).  
+[3] David Roundy, and Marvin L. Cohen, Phys. Rev. B 64, 212103 (2001).  
+[4] Zicheng Pan, Hong Sun, and Changfeng Chen, Phys. Rev. B 79, 104102 (2009).  
+[5] H. Chacham, and Leonard Kleinman, Phys. Rev. Lett. 85, 4904 (2000).  
+[6] Yi Zhang Hong Sun, and Changfeng Chen, Phys. Rev. Lett. 93, 195504 (2004).  
+[7] R. H. Telling, C. J. Pickard, M. C. Payne, and J. E. Field, Phys. Rev. Lett. 84, 5160 (2000).  
+[8] P. E. Blöchl, Phys. Rev. B 50, 17953 (1994).   
+[9] G. Kresse, and J. Furthmüller, Phys. Rev. B 54, 11169 (1996);  Comput. Mater. Sci. 6, 15 (1996).  
+[10] J. P. Perdew, K. Burke, and M. Ernzerhof, Phys. Rev. Lett. 77, 3865 (1996).  
