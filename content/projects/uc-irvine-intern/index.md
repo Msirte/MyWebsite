@@ -7,7 +7,7 @@ title = "Help to build the helium recovery system of Ho-lab, UC, Irvine"
 font_size="12"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "I was a research intern student at Prof. Wilson Ho's Lab, UC, Irvine, from Jul 2016 to Sept 2016. During that time, I helped to build the helium recovery system of the lab. I made three electronic boxes, which were level sensor controller box, gas bag relief box and solenoid valve controller box (for STM chamber)."
 
 weight = 2
 
