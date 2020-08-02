@@ -1,6 +1,6 @@
 +++
 title = "Smart Optical Vision Guide for AUV Formation"
-date = -00-01
+date = 2020-00-01
 authors = ["Yue Zhang", "Shaomeng Wang", "Xinwei Wang", "Pingshun Lei", "Yuqing Yang", "Yan Zhou"]
 publication_types = ["2"]
 abstract = ""
