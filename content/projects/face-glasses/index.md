@@ -59,7 +59,7 @@ math = true
 For some unknown reasons, I have been troubled by face blindness. It is difficult for me to distinguish faces, even from classmates who have lived together for many years. This has caused a lot of inconvenience to my life. Although I can distinguish individuals by sound, scene, and clothing, these will fail in some cases, especially when I watch a movie. After enduring long-term confusion, I decided to use what I learned to make face recognition glasses. The glasses consist of a camera, nanopi, LCD screen, battery and some optical components. The face recognition algorithm uses a neural network based on MTCNN and is implemented in C++, which relies on the ncnn library from tencent. At present I have completed the joint debugging of the algorithm and the display module [Fig. 1]. The 3D printed housing, battery and optical design is in progress. 
 
 <figure>
- <img src="fig1.png" alt="a" width="600px" height="600px"/>
+ <img src="fig1.jpg" alt="a" width="600px" height="600px"/>
   <figcaption>
       <h10>Fig. 1. Joint debugging.</h10>
   </figcaption>
