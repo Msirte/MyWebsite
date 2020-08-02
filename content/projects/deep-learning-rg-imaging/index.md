@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2019-12-30T00:00:00
+date = 2020-05-23T00:00:00
 
 # Project title.
 title = "Learn from simulation, Deep learning based image denoising of underwater range-gated imaging"
